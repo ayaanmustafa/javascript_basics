@@ -23,3 +23,13 @@ undefined gives out NaN (not a number)
 empty string "" => 0 => false
 smth string "uherueh" => 1 => true
 */
+
+
+/////////////operations///////////
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+1+1+"3")
+
+//once string comes, everything which follows is also string
+
+console.log(+"")
