@@ -32,4 +32,12 @@ console.log(1+1+1+"3")
 
 //once string comes, everything which follows is also string
 
-console.log(+"")
+console.log(+"") // 0 (as in true)
+
+let counter1 = 100
+counter1 = ++counter1 // assigns the value after the + thingy (prefix)
+console.log(counter1)
+
+let counter2 = 100
+counter2 = counter2++ // assigns value before + thingy (postfix)
+console.log(counter2)
