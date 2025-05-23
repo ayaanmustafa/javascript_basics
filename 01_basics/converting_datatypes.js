@@ -17,3 +17,9 @@ null is 0 (as in false)
 undefined gives out NaN (not a number)
 "s45" this is NaN
 */
+
+
+/*
+empty string "" => 0 => false
+smth string "uherueh" => 1 => true
+*/
